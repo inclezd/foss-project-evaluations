@@ -1,6 +1,6 @@
 # FOSS Project Evaluations
 
-The repository will collect evaluations of FOSS projects with regard to their suitability for student engagement. The evaluations should be easily updated over time. The evaluation rubric may also change over time.
+The repository will collect evaluations of FOSS projects with regard to their suitability for student engagement. The evaluations should be easy to update. The evaluation rubric may also change over time.
 
 ## Evaluation Criteria
 
