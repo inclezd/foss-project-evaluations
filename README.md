@@ -4,4 +4,4 @@ The repository will collect evaluations of FOSS projects with regard to their su
 
 ## Evaluation Criteria
 
-The evaluation criteria to be initially used are obtained from the POSSE community's [Project Evaluation (Activity)(http://foss2serve.org/index.php/Project_Evaluation_(Activity)).
+The evaluation criteria to be initially used are obtained from the POSSE community's [Project Evaluation (Activity)](http://foss2serve.org/index.php/Project_Evaluation_(Activity)).
