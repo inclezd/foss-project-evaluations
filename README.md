@@ -1,6 +1,7 @@
-# foss-project-evaluations
-Evaluations of open source projects with regard to suitability for student engagement
+# FOSS Project Evaluations
 
-Summary:
-The repository will collect evaluations of FOSS projects, that can be easily updated. The rubric should be allowed to change over time.
+The repository will collect evaluations of FOSS projects with regard to their suitability for student engagement. The evaluations should be easily updated over time. The evaluation rubric may also change over time.
 
+## Evaluation Criteria
+
+The evaluation criteria to be initially used are obtained from the [POSSE community](http://foss2serve.org/index.php/Project_Evaluation_(Activity))
